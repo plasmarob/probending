@@ -1,0 +1,11 @@
+name: ProBending
+version: 0.1
+main: me.plasmarob.probending.ProBending
+description: LoK Pro-Bending plugin
+commands:
+  probend:
+    description: main command. Type \probend help for more.
+  pb:
+    description: main command. Type \probend help for more.   
+
+

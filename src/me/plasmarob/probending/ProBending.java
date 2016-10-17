@@ -7,7 +7,9 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public class ProBending extends JavaPlugin {
 	
-	
+	/*
+	 * Episides 2,5,6
+	 */
 	@Override
 	public void onEnable()
 	{
